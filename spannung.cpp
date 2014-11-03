@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-  int widerstand;
-  int stromstaerke;
-  int spannung; 
+  float widerstand;
+  float stromstaerke;
+  float spannung; 
   cout<<"Bitte geben Sie den Widerstandswert ein: ";
   cin>>widerstand;
   cout<<"Bitte geben Sie die Stromstärke ein: ";
